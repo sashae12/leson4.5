@@ -1,0 +1,58 @@
+body {
+    font-family: sans-serif;
+}
+header {
+    background-color: blue;
+    color:white;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+header img {
+    padding: 10px;
+}
+
+header a {
+    color: white;
+}
+
+h1 {
+    text-align: center;
+    color:blueviolet;
+    font-size: 50px;
+}
+
+footer {
+    border: 5px solid red;
+    background-color: black;
+    color:white;
+    border-radius: 10px;
+}
+
+nav a {
+    margin: 60px;
+    padding: 10px;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+}
+
+.lightgreen {
+    background-color: lightgreen;
+}
+
+p {
+    font-size: 20px;
+}
+
+h2 {
+    color: green
+}
+main {
+    margin-bottom: 20px;
+}
+a {
+    border: 5px solid green;
+    border-radius: 20px;
+    text-decoration: none;
+}
